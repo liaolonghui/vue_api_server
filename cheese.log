@@ -1,0 +1,12 @@
+[2020-10-05T12:57:26.983] [DEBUG] cheese - login => username:ssss,password:bbbb
+[2020-10-05T12:57:26.986] [DEBUG] cheese - ssss
+[2020-10-05T12:57:27.494] [DEBUG] cheese - null
+[2020-10-05T12:57:27.496] [DEBUG] cheese - null
+[2020-10-05T12:57:33.377] [DEBUG] cheese - login => username:ssss,password:bbbb
+[2020-10-05T12:57:33.377] [DEBUG] cheese - ssss
+[2020-10-05T12:57:33.380] [DEBUG] cheese - null
+[2020-10-05T12:57:33.380] [DEBUG] cheese - null
+[2020-10-05T12:57:36.417] [DEBUG] cheese - login => username:ssss,password:bbbb
+[2020-10-05T12:57:36.420] [DEBUG] cheese - ssss
+[2020-10-05T12:57:36.423] [DEBUG] cheese - null
+[2020-10-05T12:57:36.423] [DEBUG] cheese - null
